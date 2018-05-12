@@ -1,10 +1,16 @@
 _repo: History-of-the-Jews-Vol-VI-of-6-Containing-a-Memoir-of-the-Author-by-Dr-Philip-Bloch-a-Chrono__46752
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46752-h/images/cover.jpg
 creator:
   author:
     agent_name: Graetz, Heinrich
     gutenberg_agent_id: '42001'
     url: http://www.gutenberg.org/2009/agents/42001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46752#History-of-the-Jews-Vol-VI-of-6-Containing-a-Memoir-of-the-Author-by-Dr-Philip-Bloch-a-Chrono_
 gutenberg_issued: '2014-09-02'
 gutenberg_type: Text
 identifiers:
